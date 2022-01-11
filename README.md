@@ -7,7 +7,7 @@ This where I am practicing my coding.
 
 ### About Me
 
-I am not good at coding honestly.
+I am very new at coding.
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
